@@ -44,6 +44,6 @@ add_action('plugins_loaded', function () {
     include_once CISO_TG_PATH . 'inc/admin/ciso_admin.php';
 
     // shortcode
-    include_once CISO_TG_PATH . 'inc/shortcode/fnc_tg_shortcode.php';
+    include_once CISO_TG_PATH . 'inc/shortcode/fnc_tg_shortcode_rof.php';
 
 });
